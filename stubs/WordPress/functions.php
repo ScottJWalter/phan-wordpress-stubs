@@ -530,6 +530,15 @@ function register_activation_hook( $file, $function ) {
 }
 
 /**
+ * @param string   $file
+ * @param callable $function
+ *
+ * @return void
+ */
+function register_deactivation_hook( $file, $function ) {
+}
+
+/**
  * @param string|WP_Block_Type $name
  * @param array                $args
  *

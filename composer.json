@@ -1,5 +1,5 @@
 {
-    "name": "skaut/phan-wordpress-stubs",
+    "name": "ScottJWalter/phan-wordpress-stubs",
     "description": "Stubs for WordPress functions and classes to be used with phan",
     "type": "library",
     "keywords": [
@@ -11,19 +11,23 @@
         "stubs",
         "WordPress stubs"
     ],
-    "homepage": "https://github.com/marekdedic/phan-wordpress-stubs",
+    "homepage": "https://github.com/ScottJWalter/phan-wordpress-stubs",
     "readme": "README.md",
     "license": "MIT",
     "authors": [
-    {
-        "name": "Marek Dědič",
-        "email": "developer@dedic.eu"
-    }
+        {
+            "name": "Marek Dědič",
+            "email": "developer@dedic.eu"
+        },
+        {
+           "name": "Scott J. Walter",
+           "email": "sjwalter@gmail.com"
+        },
     ],
     "support": {
-        "issues": "https://github.com/marekdedic/phan-wordpress-stubs/issues",
-        "wiki": "https://github.com/marekdedic/phan-wordpress-stubs/wiki",
-        "source": "https://github.com/marekdedic/phan-wordpress-stubs"
+        "issues": "https://github.com/ScottJWalter/phan-wordpress-stubs/issues",
+        "wiki": "https://github.com/ScottJWalter/phan-wordpress-stubs/wiki",
+        "source": "https://github.com/ScottJWalter/phan-wordpress-stubs"
     },
     "require": {
         "php": "^7.0"
