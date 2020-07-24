@@ -1,5 +1,5 @@
 {
-    "name": "ScottJWalter/phan-wordpress-stubs",
+    "name": "scottjwalter/phan-wordpress-stubs",
     "description": "Stubs for WordPress functions and classes to be used with phan",
     "type": "library",
     "keywords": [
