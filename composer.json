@@ -22,7 +22,7 @@
         {
            "name": "Scott J. Walter",
            "email": "sjwalter@gmail.com"
-        },
+        }
     ],
     "support": {
         "issues": "https://github.com/ScottJWalter/phan-wordpress-stubs/issues",
